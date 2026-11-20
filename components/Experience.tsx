@@ -103,7 +103,7 @@ export default function Experience() {
               <h1 className="hero-title" id="hero-title">Julia</h1>
             </div>
             <div className="chapter-detail">
-              <p className="hero-line">Le rouge, <em>à fleur de peau.</em></p>
+              <p className="hero-line">Le rouge, <em>à fleur de peau…</em></p>
               <p className="release-line">{released ? "Dévoilée le" : "Révélation le"} <time dateTime="2027-01-20">20 janvier 2027</time>.</p>
               <a className="primary-link" href="#le-flacon">
                 <Rotate3d size={18} strokeWidth={1.4} aria-hidden="true" />
